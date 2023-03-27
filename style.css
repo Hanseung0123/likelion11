@@ -1,0 +1,23 @@
+.Container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.fContainer{
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.bContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: black;
+}
